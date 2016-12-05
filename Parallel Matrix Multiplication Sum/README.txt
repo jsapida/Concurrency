@@ -33,4 +33,5 @@ code is located.
 
 where matrixA and matrix_B are the name of files that contain 
 the entries of matrix A and matrix B respectively, and M, N, K 
-specify the dimensions of the two matrices i.e. matrix A is a MxN matrix and matrix B is an NxK matrix.
+specify the dimensions of the two matrices i.e. matrix A is an 
+MxN matrix and matrix B is an NxK matrix.
