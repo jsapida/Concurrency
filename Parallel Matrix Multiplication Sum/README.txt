@@ -5,7 +5,7 @@ What is it?
 
 The Parallel Matrix Multiplication Sum is a program that solves
 the critical section problem using multiple processes/threads and
-their inter-process/thread communications respectively.
+their inter-process/thread communications respectively in C.
 
 
 How to compile
